@@ -1,1 +1,0 @@
-# acc102-track2-sp500-analysis
